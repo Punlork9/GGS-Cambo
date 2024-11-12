@@ -149,6 +149,8 @@ span{
     cursor: pointer;
     transition: 0.2s linear;
     animation: rotate 75s linear infinite;
+    width: 100%; /* Adjust as needed */
+    height: auto;
 }
 
 .home-img img:hover{
